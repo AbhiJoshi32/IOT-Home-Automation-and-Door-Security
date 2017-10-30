@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Home Automation</string>
+    <string name="manual">Manual</string>
+    <string name="automatic">Automatic</string>
 </resources>
