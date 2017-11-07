@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HomeAutomation.iml" filepath="$PROJECT_DIR$/HomeAutomation.iml" />
+      <module fileurl="file://C:\Users\Abhishek\AndroidStudioProjects\IOT-Home-Automation-and-Door-Security\HomeAutomation.iml" filepath="C:\Users\Abhishek\AndroidStudioProjects\IOT-Home-Automation-and-Door-Security\HomeAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT-Home-Automation-and-Door-Security.iml" filepath="$PROJECT_DIR$/IOT-Home-Automation-and-Door-Security.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
